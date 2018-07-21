@@ -5,7 +5,7 @@ html {
 
 body {
   margin-bottom: 80px;
-  background-image: url("../images/paper.jpg");
+  background-image: url("../images/paper2.jpg");
 }
 
 .footer {
@@ -134,7 +134,7 @@ body {
 
 textarea {
   resize: none;
-  margin: 5px;
+  margin:10px;
 }
 
 .bootbox-body .btn {
